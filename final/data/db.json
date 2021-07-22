@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": " Rebecca Politics",
+      "authorName": "Rebecca Henerson",
+      "category": "Politics",
+      "time": "15-minute read",
+      "src": "https://images.blinkist.com/images/books/5f76e2276cee070007d0480d/1_1/250.jpg",
+      "check": true
+    },
+    {
+      "id": 2,
+      "name": "Reimagining Capitalism World On Fire",
+      "authorName": "Rebecca Henerson",
+      "category": "Politics",
+      "time": "15-minute read",
+      "src": "https://images.blinkist.io/images/books/60c864126cee070007f8b320/1_1/470.jpg",
+      "check": false
+    },
+    {
+      "id": 3,
+      "name": "Reimagining Capitalism In A World On Fire",
+      "authorName": "Rebecca Henerson",
+      "category": "Education",
+      "time": "15-minute read",
+      "src": "https://images.blinkist.io/images/books/608282646cee0700072c7bff/1_1/470.jpg",
+      "check": false
+    },
+    {
+      "id": 4,
+      "name": "Reimagining Capitalism In A World On Fire",
+      "authorName": "Rebecca Henerson",
+      "category": "Science",
+      "time": "15-minute read",
+      "src": "https://images.blinkist.com/images/books/5f76e2276cee070007d0480d/1_1/250.jpg",
+      "check": false
+    },
+    {
+      "id": 5,
+      "name": "Reimagining Capitalism World On Fire",
+      "authorName": "Rebecca Henerson",
+      "category": "Enterpreneurship",
+      "time": "15-minute read",
+      "src": "https://images.blinkist.com/images/books/5f76e2276cee070007d0480d/1_1/250.jpg",
+      "check": false
+    }
+  ]
+}
